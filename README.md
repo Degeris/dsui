@@ -49,23 +49,14 @@
 برای نصب پنل، وارد سرور خود شوید و دستور زیر را وارد کنید:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Degeris/Degeris/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Degeris/dsui/main/install.sh)
 ```
 
 Installer به‌صورت خودکار فایل‌ها و پیش‌نیازهای موردنیاز را نصب و آماده می‌کند.
 
-## ▶️ اجرای پنل
-
-بعد از نصب، برای باز کردن منوی مدیریت پنل:
-
+## ▶️ اجرای پنل:
 ```bash
-Degerist
-```
-
-یا:
-
-```bash
-degerist
+dsui
 ```
 
 پورت پیش‌فرض پنل:
@@ -136,7 +127,7 @@ The current version is **1.5.2**, designed to provide a simple, fast and practic
 Run the following command on your server:
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Degeris/Degeris/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Degeris/dsui/main/install.sh)
 ```
 
 The installer automatically installs and prepares the required dependencies.
